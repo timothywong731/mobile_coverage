@@ -14,6 +14,7 @@ dependencies = [
     "geopandas (>=1.1.1,<2.0.0)",
     "scikit-learn (>=1.7.2,<2.0.0)",
     "duckdb (>=1.4.0,<2.0.0)",
+    "datasets (>=4.1.1,<5.0.0)",
 ]
 
 
