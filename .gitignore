@@ -221,3 +221,9 @@ poetry.lock
 
 # Cells output folder
 cells/
+
+# Local cache
+cache/
+
+# CSV files
+*.csv
